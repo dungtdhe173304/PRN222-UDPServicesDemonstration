@@ -1,0 +1,7 @@
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\bin\Debug\UDPClientApp.exe.config
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\bin\Debug\UDPClientApp.exe
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\bin\Debug\UDPClientApp.pdb
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\obj\Debug\UDPClientApp.csproj.AssemblyReference.cache
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\obj\Debug\UDPClientApp.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\obj\Debug\UDPClientApp.exe
+D:\SPRING2025-ki7\prn222\code\UDPServicesDemonstration\TestUDPApp\UDPClientApp\obj\Debug\UDPClientApp.pdb
